@@ -1,0 +1,6 @@
+prediction:
+  prediction_dir: prediction_service
+  labelmap_dir: labelmap
+  ckpt_dir: save_model
+  labelmap_name: labelmap.pbtxt
+  model_name: frozen_inference_graph.pb
